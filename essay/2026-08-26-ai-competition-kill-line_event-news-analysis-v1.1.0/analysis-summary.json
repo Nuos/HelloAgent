@@ -1,0 +1,32 @@
+{
+  "pipeline": "event-news-analysis v1.1.0-beta.1",
+  "research_date": "2026-08-26",
+  "event": "AI人工智能竞争手段多样化——大模型开发斩杀线",
+  "working_definition": "对某类任务而言，由最强且广泛可得的开放权重/免费模型形成能力底线与价格上限；收费模型若不能明显超过该基线，也缺乏SLA、合规、专有数据、工具生态、分发或工作流差异，其模型层定价权与估值溢价会被压缩。",
+  "primary_contradiction": {
+    "side_a": "前沿模型研发需要极高资本开支，希望通过专有能力获得高毛利和高估值",
+    "side_b": "开放权重、低价API、免费推理和免费Agent不断把可用智能变成接近公共品的基础能力",
+    "binding_constraint": "模型能力差距缩小速度快于许多企业建立分发、数据、可靠性和企业服务壁垒的速度"
+  },
+  "mechanism": [
+    "强开放模型发布",
+    "本地部署、第三方托管和免费路由降低获取成本",
+    "开发者切换成本下降",
+    "可比收费模型必须降价或提高能力",
+    "中低端模型的独立API租金收缩",
+    "资本市场更难为仅有模型能力支付高倍数",
+    "价值向前沿能力、企业可靠性、专有数据、分发入口、Agent工作流和算力迁移"
+  ],
+  "actors": ["OpenAI", "Anthropic", "DeepSeek", "MiniMax", "Freebuff", "OpenRouter", "开发者/企业用户", "资本市场"],
+  "scores": {
+    "evidence_confidence": 93,
+    "structural_explanation": 95,
+    "market_mechanism_strength": 92,
+    "valuation_discipline_plausibility": 84,
+    "bubble_prevention_certainty": 48,
+    "analysis_completeness": 94
+  },
+  "critical_caveat": "开放模型能够形成估值纪律并压缩模型层稀缺租金，但不能保证消灭AI泡沫；风险仍可能迁移到算力、数据中心、能源与资本开支。",
+  "source_count": 23,
+  "real_public_image_count": 2
+}
