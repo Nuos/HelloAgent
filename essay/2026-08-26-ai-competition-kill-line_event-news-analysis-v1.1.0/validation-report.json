@@ -1,0 +1,13 @@
+{
+  "pipeline": "event-news-analysis v1.1.0-beta.1",
+  "html_exists": true,
+  "html_bytes": 46144,
+  "style_blocks": 0,
+  "class_attributes": 0,
+  "image_tags": 2,
+  "source_count": 23,
+  "mandatory_opening_order_ok": true,
+  "max_visible_font_px": 15,
+  "contains_internal_pipeline_terms_in_article": false,
+  "status": "PASS"
+}
