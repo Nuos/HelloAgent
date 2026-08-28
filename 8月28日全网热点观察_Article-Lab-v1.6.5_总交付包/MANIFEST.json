@@ -1,0 +1,36 @@
+{
+  "package_name": "8月28日全网热点观察_Article-Lab-v1.6.5_总交付包",
+  "article_title": "8月28日全网热点观察：吉隆灾害冲上峰值，AI Agent开始连接物理世界",
+  "article_lab_version": "1.6.5",
+  "snapshot": "2026-08-28 morning, Beijing time",
+  "status": "ARTICLE_PACKAGE_READY",
+  "files": [
+    "article_wechat.html",
+    "article.md",
+    "README.md",
+    "SOURCES.md",
+    "QUALITY_REPORT.md",
+    "MANIFEST.json",
+    "assets/README.md"
+  ],
+  "html_profile": "social_public_opinion / news_hotspot_integrated",
+  "wechat_rules": {
+    "inline_styles_only": true,
+    "max_visible_font_px": 15,
+    "reference_font_px": 12,
+    "paragraph_first_line_indent": "2em",
+    "summary_conclusion_navigation_horizontal_margin_px": 16,
+    "reference_horizontal_margin_px": 8,
+    "external_css": false,
+    "javascript": false,
+    "dark_theme": false
+  },
+  "content_rules": {
+    "three_time_scales": true,
+    "platform_evidence_grading": true,
+    "cross_platform_clustering": true,
+    "event_lifecycle_tracking": true,
+    "cross_platform_heat_numbers_summed": false,
+    "historical_snapshot_locked": true
+  }
+}
