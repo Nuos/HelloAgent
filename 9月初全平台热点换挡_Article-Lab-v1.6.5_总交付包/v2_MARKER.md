@@ -1,0 +1,1 @@
+This branch is being superseded by v2 information-dense rewrite.
